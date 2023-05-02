@@ -1,0 +1,36 @@
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.deps.json
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.dll
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\ref\Book_Shopping_Project.Utility.dll
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.pdb
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.csprojAssemblyReference.cache
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.AssemblyInfoInputs.cache
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.AssemblyInfo.cs
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.dll
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\ref\Book_Shopping_Project.Utility.dll
+C:\Users\Baljeet\Desktop\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.pdb
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.deps.json
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.dll
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\ref\Book_Shopping_Project.Utility.dll
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.pdb
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.AssemblyInfoInputs.cache
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.AssemblyInfo.cs
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.csproj.CoreCompileInputs.cache
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.dll
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\ref\Book_Shopping_Project.Utility.dll
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.pdb
+D:\Asp.Net MVC\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.csproj.AssemblyReference.cache
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.deps.json
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.dll
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\ref\Book_Shopping_Project.Utility.dll
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\bin\Debug\net5.0\Book_Shopping_Project.Utility.pdb
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.csprojAssemblyReference.cache
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.AssemblyInfoInputs.cache
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.AssemblyInfo.cs
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.csproj.CoreCompileInputs.cache
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.dll
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\ref\Book_Shopping_Project.Utility.dll
+D:\Book_Shopping_Project\Book_Shopping_Project\Book_Shopping_Project.Utility\obj\Debug\net5.0\Book_Shopping_Project.Utility.pdb
